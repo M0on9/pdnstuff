@@ -1,0 +1,141 @@
+
+
+;Human Faces.
+;_____________
+;
+; Paint.NET Palette File
+; Lines that start with a semicolon are comments
+; Colors are written as 8-digit hexadecimal numbers: aarrggbb
+; For example, this would specify green: FF00FF00
+; The alpha ('aa') value specifies how transparent a color is. FF is fully opaque, 00 is fully transparent.
+; A palette must consist of ninety six (96) colors. If there are less than this, the remaining color
+; slots will be set to white (FFFFFFFF). If there are more, then the remaining colors will be ignored.
+
+
+;Blue
+FFe3f2fd
+FFbbdefb
+FF90caf9
+FF64b5f6
+FF2196f3
+FF1976d2
+FF0d47a1
+
+;LightGreen
+FFf1f8e9
+FFdcedc8
+FFc8e6c9
+FF81c784
+FF4caf50
+
+;Dark Green
+FFb2ff59
+FF76ff03
+FF64dd17
+FF00c853
+
+;Olive
+FFe6ee9c
+FFd4e157
+FFc0ca33
+FF9e9d24
+
+;Yellow
+FFf9fbe7
+FFfff9c4
+FFfff59d
+FFffecb3
+FFfff176
+FFffe082
+FFffd54f
+
+;Orange
+FFfff3e0
+FFffe0b2
+FFffcc80
+FFffb74d
+FFffa726
+
+;Rose
+FFfbe9e7
+FFffccbc
+FFffab91
+FFff8a65
+
+;Red
+FFffcdd2
+FFef9a9a
+FFe57373
+FFff5252
+FFff1744
+FFf48fb1
+FFf06292
+FFec407a
+
+;Purple
+FFede7f6
+FFd1c4e9
+FFb39ddb
+FF9575cd
+
+;Brown
+FFffffff
+FFefebe9
+FFd7ccc8
+FFbcaaa4
+FFa1887f
+FF8d6e63
+FF795548
+FF6d4c41
+FF5d4037
+FF4e342e
+FF3e2723
+
+;Dark Brown
+FF321911
+FF260e04
+FF1b0000
+
+;Accurate Range
+FF2D221E
+FF3C2E28
+FF4B3932
+FF5A453C
+FF695046
+FF785C50
+FF87675A
+FF967264
+FFA57E6E
+FFB48A78
+FFC39582
+FFD2A18C
+FFE1AC96
+FFF0B8A0
+FFFFC3AA
+FFFFCEB4
+FFFFDABE
+FFFFE5C8
+
+;Grey/shading
+FFeceff1
+FFcfd8dc
+FFb0bec5
+FF90a4ae
+FF78909c
+FF607d8b
+FF546e7a
+FF455a64
+FF37474f
+FF263238
+
+;Black
+FF2c2c2c
+FF212121
+FF0c0c0c
+FF000000
+
+;Makes colours darker.  Half transparency black.
+0F000000
+
+;Makes colours paler. Half transparency white.
+0FFFFFFF

@@ -1,0 +1,26 @@
+; Lunar Mono color scale
+; Darkest accent
+FF1a1a1a
+; Darker base color / Dark accent
+FF2b2b2b
+; Base color / Darkest medium accent
+FF3c3c3c
+; From here is med-light accents
+FF4d4d4d
+FF5e5e5e
+FF6f6f6f
+FF7a7a7a
+FF8b8b8b
+FF9c9c9c
+; And after the no numbers mark its mostly whites and greys to be used for text & icons
+FFadadad
+FFbebebe
+FFcfcfcf
+FFdadada
+FFebebeb
+FFfcfcfc
+FFfdfdfd
+FFfefefe
+; Accents are +4 from original color
+; Ex: 3c3c3c -> 7a3c7a (purple 3c)
+; I will get around to this... eventually....
